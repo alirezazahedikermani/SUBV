@@ -1,10 +1,10 @@
 -----BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzE1vgjAYAOD/0qsesG6NNfFiV5KXgAS/
-AtwqH127WSrYAlv23+f9yfOLfNMPqjNou1oi
-K+bvTtRoi5o5Gqs7DW744G8MCHxxFbPop8wj
-XOagUhV1wuxVbayP7y9zggHM3lcmU6nOgmQd
-7NASDUoa8XR98yoTfmGQMUeTK7Qk5Ny5uqiw
-5aOa0tzGcizD2dHuAxd00kzMEmQh2XpDdHsm
-B29p+PbJFriV5elCYGqO50ets/dCP/rrJtmh
-v3/BokS/
+eJwNzNsOgiAAANB/4bW2CFnLNh9Ku0Aoo1Uz
+3rAUqbSLoWnr3+v97HxAnT4rcyvBZNgHd9Ve
+b+oEJiBtaXMsXJigqE58MiKXuWE+7WRMkYyJ
+4YZiid5dWshaocYmxR4S05jj0m1Pfx8FosuE
+54E+qIwu1cs+038bznc+EQHspHCuDxzn2wOf
+rdzzkG+s3Z2xm2udNYyNp1Wp4IIxTTTF5YCt
+rYOiSqg8Cxln4sKxXPb8ggcvM4ZyO1Vqnzuh
+B74/cmlEag==
 -----END ARGO VPN BRIDGE BLOCK-----
