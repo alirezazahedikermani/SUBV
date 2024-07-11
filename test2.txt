@@ -1,0 +1,8 @@
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzM0OgiAAAOB34dwWmf3Y1iGVLVgmrkzzRkBGJTZFylrv
+Xvdv3wdY2bSq1mAxGoAH6+81E2ABZE+evPLgydnaU4Cn+IbU
+JiDvIidOkWMVK/KS2eNaZAezqf5mh1usfct1ouJrAqMxXIIB
+aFWpmeka+S8jdAxwEli7Nsalrt+lnh6+71BG55xMpA1dVqNc
+hKFDaOMp/irxZUUvoZzBOXoWtsTZNl7zlHeipL5JKjhvBdtT
+kw7tpBcIfH+gwkSh
+-----END ARGO VPN BRIDGE BLOCK-----
